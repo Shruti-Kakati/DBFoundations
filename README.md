@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shruti-Kakati
 - 👀 I’m interested in Business Analysis/Visualization
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently practicing SQL
 - 📫 Reach me on kakatishruti@gmail.com
 
 <!---
