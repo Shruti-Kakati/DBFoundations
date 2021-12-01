@@ -3,17 +3,17 @@
 -- Author: Shruti Kakati
 -- Desc: This file demonstrates how to use Functions
 -- Change Log:
--- 11/29/2020, Shruti Kakati
+-- 11/29/2021, Shruti Kakati
 --- Created Database named Assignment07DB_ShrutiKakati
--- 11/29/2020, Shruti Kakati
+-- 11/29/2021, Shruti Kakati
 -- Cretead 4 tables as
 -- 1. Categories
 -- 2. Employees
 -- 3. Inventories
 -- 4. Products
--- 11/29/2020, Shruti Kakati
+-- 11/29/2021, Shruti Kakati
 -- Inserted data into tables
--- 11/29/2020, Shruti Kakati
+-- 11/29/2021, Shruti Kakati
 --	Created Views 9 views as Following
 -- 	1. vCategories
 --  2. vCategoriesInventories
@@ -24,7 +24,7 @@
 --  7. vProductInventoriesWithPreviouMonthCounts
 --  8. vProductInventoriesWithPreviousMonthCountsWithKPIs
 --  9. vProducts
--- 	11/29/2020, Shruti Kakati
+-- 	11/29/2021, Shruti Kakati
 --	Created Function named 
 --  fProductInventoriesWithPreviousMonthCountsWithKPIs
 --**************************************************************************--
